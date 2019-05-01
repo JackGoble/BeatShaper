@@ -15,7 +15,7 @@ Before you can run this project, you will need to install some programs and depe
 4. FFmpeg:  FFmpeg is a tool used within the project.  Please go to https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg and follow the instructions written to install this.
 
 ### Installing dependencies
-After cloning the repo, install the necessary dependencies by navigating to the the top directory that contains the 'requirements.txt' file and run:
+After cloning the repository, you may install the necessary dependencies by navigating to the the top directory (that contains the 'requirements.txt' file) and run:
 ```pip install -r requirements.txt```
 
 ### Demo
