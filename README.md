@@ -1,6 +1,6 @@
 # Beat Shaper
 
-This project is a fork/continuatiuon of a project started here: https://github.com/CSCI4850/S19-team0-project
+This project is a mirror/continuatiuon of a project started here: https://github.com/CSCI4850/S19-team0-project
 
 When provided a song, it uses a neural network to generate a playable BeatSaber beatmaps for it. The model is currently only being trained on beatmaps that are of Expert and ExpertPlus difficulty and are highly rated within the www.beatsaver.com community.  
 
