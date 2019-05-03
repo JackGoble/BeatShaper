@@ -1,10 +1,6 @@
-# Beat Shaper
+# Team Pandemonium
 
-This project is a fork/continuatiuon of a project started here: https://github.com/CSCI4850/S19-team0-project
-
-When provided a song, it uses a neural network to generate a playable BeatSaber beatmaps for it. The model is currently only being trained on beatmaps that are of Expert and ExpertPlus difficulty and are highly rated within the www.beatsaver.com community.  
-
-Please note, this is a pet project and a work-in-progress. While functional, the beatmaps generated leave much to be desired.
+This project uses a neural network to generate a beatmap for a given song.  The model is trained on beatmaps that are of expert difficulty and are highly rated within the www.beatsaver.com community.  
 
 ## Getting Started
 Before you can run this project, you will need to install some programs and dependencies.
